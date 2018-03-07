@@ -12,6 +12,8 @@ Step 3: Take a screenshot of your Itunes screen and open it with paint. Find the
 
 Step 4: Put these coordinates into the script .
 
+Step 5 : Run `pip install pyautogui`
+
 Step 5: Open Itunes, run the script `python add.py` with the Itunes window open in the same position when the coordinates were taken.
 
 Step 6: Go grab a beer or coffee while your songs get added.
